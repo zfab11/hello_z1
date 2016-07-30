@@ -1,2 +1,4 @@
 # hello_z1
-justan other distro
+just another distro
+
+Version 0.2
